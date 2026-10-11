@@ -8,8 +8,4 @@
     <img src="https://cdn.discordapp.com/emojis/1003843554482864199.gif?size=96&quality=lossless" width="15px"/>
     <link>24.11</link>
   </p>
-  <p>
-    twitter: @skayuus<br>
-    discord: @skayvs
-  </p>
 </div>
